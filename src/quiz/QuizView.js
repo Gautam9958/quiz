@@ -22,7 +22,7 @@ var wrongattamp=0;
 
 	var questions = [
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
             image:"assit/img/2.jpg",
 			answerOptions: [
 				{ answerText: 'rabbit', isCorrect: true },
@@ -32,7 +32,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/buffalo.jpg",
 			answerOptions: [
 				{ answerText: 'elephant', isCorrect: false },
@@ -42,7 +42,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/cat.jpg",
 			answerOptions: [
 				{ answerText: 'cat', isCorrect: true },
@@ -52,7 +52,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/cow.jpg",
 			answerOptions: [
 				{ answerText: 'cow', isCorrect: true },
@@ -62,7 +62,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
             image:"assit/img/deer.jpg",
 			answerOptions: [
 				{ answerText: 'deer', isCorrect: true },
@@ -72,7 +72,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/dog.jpg",
 			answerOptions: [
 				{ answerText: 'elephant', isCorrect: false },
@@ -82,7 +82,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/elephant.jpg",
 			answerOptions: [
 				{ answerText: 'elephant', isCorrect: true },
@@ -92,7 +92,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/fox.jpg",
 			answerOptions: [
 				{ answerText: 'fox', isCorrect: true },
@@ -102,7 +102,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
             image:"assit/img/giraffe.jpg",
 			answerOptions: [
 				{ answerText: 'giraffe', isCorrect: true },
@@ -112,7 +112,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/goat.jpg",
 			answerOptions: [
 				{ answerText: 'elephant', isCorrect: false },
@@ -122,7 +122,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/hippo.jpg",
 			answerOptions: [
 				{ answerText: 'hippo', isCorrect: true },
@@ -132,7 +132,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/Kangaroo-in-Hindi.jpg",
 			answerOptions: [
 				{ answerText: 'kangaroo', isCorrect: true },
@@ -142,7 +142,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
             image:"assit/img/leapods.jpg",
 			answerOptions: [
 				{ answerText: 'leapod', isCorrect: true },
@@ -152,7 +152,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/lion.jpg",
 			answerOptions: [
 				{ answerText: 'elephant', isCorrect: false },
@@ -162,7 +162,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/monkey.jpg",
 			answerOptions: [
 				{ answerText: 'monkey', isCorrect: true },
@@ -172,7 +172,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/rino.jpg",
 			answerOptions: [
 				{ answerText: 'rino', isCorrect: true },
@@ -182,7 +182,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
             image:"assit/img/sheep.jpg",
 			answerOptions: [
 				{ answerText: 'sheep', isCorrect: true },
@@ -192,7 +192,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/tiger.jpg",
 			answerOptions: [
 				{ answerText: 'elephant', isCorrect: false },
@@ -202,7 +202,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/wolf.jpg",
 			answerOptions: [
 				{ answerText: 'wolf', isCorrect: true },
@@ -212,7 +212,7 @@ var wrongattamp=0;
 			],
 		},
 		{
-			questionText: 'name of animal?',
+			questionText: 'what is the name of this animal?',
 			image:"assit/img/zebra.jpg",
 			answerOptions: [
 				{ answerText: 'zebra', isCorrect: true },
