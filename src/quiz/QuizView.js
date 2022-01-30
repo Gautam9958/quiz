@@ -25,10 +25,10 @@ var wrongattamp=0;
 			questionText: 'name of animal?',
             image:"assit/img/2.jpg",
 			answerOptions: [
-				{ answerText: 'rabit', isCorrect: true },
+				{ answerText: 'rabbit', isCorrect: true },
 				{ answerText: 'sheep', isCorrect: false },
 				{ answerText: 'elephant', isCorrect:false  },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 			],
 		},
 		{
@@ -37,8 +37,8 @@ var wrongattamp=0;
 			answerOptions: [
 				{ answerText: 'elephant', isCorrect: false },
 				{ answerText: 'buffalo', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
-				{ answerText: 'rabit', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
+				{ answerText: 'rabbit', isCorrect: false },
 			],
 		},
 		{
@@ -46,7 +46,7 @@ var wrongattamp=0;
 			image:"assit/img/cat.jpg",
 			answerOptions: [
 				{ answerText: 'cat', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 				{ answerText: 'buffalo', isCorrect: false },
 				{ answerText: 'sheep', isCorrect: false },
 			],
@@ -56,7 +56,7 @@ var wrongattamp=0;
 			image:"assit/img/cow.jpg",
 			answerOptions: [
 				{ answerText: 'cow', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 				{ answerText: 'buffalo', isCorrect: false },
 				{ answerText: 'sheep', isCorrect: false },
 			],
@@ -68,7 +68,7 @@ var wrongattamp=0;
 				{ answerText: 'deer', isCorrect: true },
 				{ answerText: 'sheep', isCorrect: false },
 				{ answerText: 'elephant', isCorrect:false  },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 			],
 		},
 		{
@@ -77,8 +77,8 @@ var wrongattamp=0;
 			answerOptions: [
 				{ answerText: 'elephant', isCorrect: false },
 				{ answerText: 'dog', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
-				{ answerText: 'rabit', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
+				{ answerText: 'rabbit', isCorrect: false },
 			],
 		},
 		{
@@ -86,7 +86,7 @@ var wrongattamp=0;
 			image:"assit/img/elephant.jpg",
 			answerOptions: [
 				{ answerText: 'elephant', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 				{ answerText: 'buffalo', isCorrect: false },
 				{ answerText: 'sheep', isCorrect: false },
 			],
@@ -96,7 +96,7 @@ var wrongattamp=0;
 			image:"assit/img/fox.jpg",
 			answerOptions: [
 				{ answerText: 'fox', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 				{ answerText: 'buffalo', isCorrect: false },
 				{ answerText: 'sheep', isCorrect: false },
 			],
@@ -108,7 +108,7 @@ var wrongattamp=0;
 				{ answerText: 'giraffe', isCorrect: true },
 				{ answerText: 'sheep', isCorrect: false },
 				{ answerText: 'elephant', isCorrect:false  },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 			],
 		},
 		{
@@ -117,8 +117,8 @@ var wrongattamp=0;
 			answerOptions: [
 				{ answerText: 'elephant', isCorrect: false },
 				{ answerText: 'goat', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
-				{ answerText: 'rabit', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
+				{ answerText: 'rabbit', isCorrect: false },
 			],
 		},
 		{
@@ -126,7 +126,7 @@ var wrongattamp=0;
 			image:"assit/img/hippo.jpg",
 			answerOptions: [
 				{ answerText: 'hippo', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 				{ answerText: 'buffalo', isCorrect: false },
 				{ answerText: 'sheep', isCorrect: false },
 			],
@@ -136,7 +136,7 @@ var wrongattamp=0;
 			image:"assit/img/Kangaroo-in-Hindi.jpg",
 			answerOptions: [
 				{ answerText: 'kangaroo', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 				{ answerText: 'buffalo', isCorrect: false },
 				{ answerText: 'sheep', isCorrect: false },
 			],
@@ -145,10 +145,10 @@ var wrongattamp=0;
 			questionText: 'name of animal?',
             image:"assit/img/leapods.jpg",
 			answerOptions: [
-				{ answerText: 'leapods', isCorrect: true },
+				{ answerText: 'leapod', isCorrect: true },
 				{ answerText: 'sheep', isCorrect: false },
 				{ answerText: 'elephant', isCorrect:false  },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 			],
 		},
 		{
@@ -157,8 +157,8 @@ var wrongattamp=0;
 			answerOptions: [
 				{ answerText: 'elephant', isCorrect: false },
 				{ answerText: 'lion', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
-				{ answerText: 'rabit', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
+				{ answerText: 'rabbit', isCorrect: false },
 			],
 		},
 		{
@@ -176,7 +176,7 @@ var wrongattamp=0;
 			image:"assit/img/rino.jpg",
 			answerOptions: [
 				{ answerText: 'rino', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 				{ answerText: 'buffalo', isCorrect: false },
 				{ answerText: 'sheep', isCorrect: false },
 			],
@@ -188,7 +188,7 @@ var wrongattamp=0;
 				{ answerText: 'sheep', isCorrect: true },
 				{ answerText: 'dog', isCorrect: false },
 				{ answerText: 'elephant', isCorrect:false  },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 			],
 		},
 		{
@@ -197,8 +197,8 @@ var wrongattamp=0;
 			answerOptions: [
 				{ answerText: 'elephant', isCorrect: false },
 				{ answerText: 'tiger', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
-				{ answerText: 'rabit', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
+				{ answerText: 'rabbit', isCorrect: false },
 			],
 		},
 		{
@@ -206,7 +206,7 @@ var wrongattamp=0;
 			image:"assit/img/wolf.jpg",
 			answerOptions: [
 				{ answerText: 'wolf', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 				{ answerText: 'buffalo', isCorrect: false },
 				{ answerText: 'sheep', isCorrect: false },
 			],
@@ -216,7 +216,7 @@ var wrongattamp=0;
 			image:"assit/img/zebra.jpg",
 			answerOptions: [
 				{ answerText: 'zebra', isCorrect: true },
-				{ answerText: 'monky', isCorrect: false },
+				{ answerText: 'monkey', isCorrect: false },
 				{ answerText: 'buffalo', isCorrect: false },
 				{ answerText: 'sheep', isCorrect: false },
 			],
@@ -252,7 +252,7 @@ var wrongattamp=0;
 		<div className='app'>
 			{showScore ? (
 				<div className='score-section'>
-					<h2>wrongattamp{wrongattamp}</h2>
+					<h2>wrongattamp {wrongattamp}</h2>
 					<h2>You scored {score} out of {questions.length}</h2>
 				   <a href='/'><button className='btns'>reset</button></a>
 				</div>
