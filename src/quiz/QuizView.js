@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+var wrongattamp=0;
  function QuizView() {
     function shuffle(array) {
 		let currentIndex = array.length,  randomIndex;
@@ -12,12 +12,13 @@ import React, { useState } from 'react';
 			currentIndex--;
 		
 			// And swap it with the current element.
-			[array[currentIndex], array[randomIndex]] = [
-			array[randomIndex], array[currentIndex]];
+			[array[currentIndex], array[randomIndex]] = 
+			[array[randomIndex], array[currentIndex]];
 		}
 		
 		return array;
     }
+	
 
 	var questions = [
 		{
@@ -223,6 +224,7 @@ import React, { useState } from 'react';
 	];
 
 	questions = shuffle(questions);
+	 questions = questions.slice(0, 5);
 	console.log(questions);
 
 	const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -233,7 +235,11 @@ import React, { useState } from 'react';
 		if (isCorrect) {
 			setScore(score + 1);
 		}
-
+		else{
+			alert('wrong answer');
+			wrongattamp+=1;
+			return;
+		}
 		const nextQuestion = currentQuestion + 1;
 		if (nextQuestion < questions.length) {
 			setCurrentQuestion(nextQuestion);
@@ -246,7 +252,9 @@ import React, { useState } from 'react';
 		<div className='app'>
 			{showScore ? (
 				<div className='score-section'>
-					You scored {score} out of {questions.length}
+					<h2>wrongattamp{wrongattamp}</h2>
+					<h2>You scored {score} out of {questions.length}</h2>
+				   <a href='/'><button className='btns'>reset</button></a>
 				</div>
 			) : (
 				<>
