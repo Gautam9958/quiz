@@ -1,5 +1,4 @@
 import React , {useState}  from 'react'
-import QuizView from './QuizView';
 
 const MainView = (props) => {
     
